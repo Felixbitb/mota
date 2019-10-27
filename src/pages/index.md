@@ -81,36 +81,21 @@ sections:
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    title: What we do
+    title: Notsurewhatwashere
     type: features
   - background_style: style1
     component: Contact
     contact_list:
-      - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+      - text: |
+          Stresemannstraße 86
+          22769 Hamburg
         title: Address
-      - text: user@Hyperspace.tld
+      - text: felix@mota.bio
         title: Email
         url: '#'
-      - text: (000) 000-0000
-        title: Phone
     section_id: three
     social:
       social_icons:
-        - icon: fa-twitter
-          title: Twitter
-          url: '#'
-        - icon: fa-facebook
-          title: Facebook
-          url: '#'
-        - icon: fa-github
-          title: GitHub
-          url: '#'
-        - icon: fa-instagram
-          title: Instagram
-          url: '#'
         - icon: fa-linkedin
           title: LinkedIn
           url: '#'
@@ -120,7 +105,7 @@ sections:
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    title: Get in touch
+    title: Kontakt
     type: contact
 menus:
   main:
